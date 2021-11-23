@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  imagen: MyString
+  titulo: MyString
+  fecha_creacion: 2021-11-17
+  calificacion: 1
+  personaje_asoc: MyString
+
+two:
+  imagen: MyString
+  titulo: MyString
+  fecha_creacion: 2021-11-17
+  calificacion: 1
+  personaje_asoc: MyString
